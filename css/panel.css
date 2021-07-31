@@ -1,0 +1,12 @@
+.panel {
+    border: 1px solid gray;
+}
+
+.head {
+    border-bottom: 1px solid gray;
+    padding: 5px 10px;
+}
+
+.body {
+    padding: 20px;
+}
