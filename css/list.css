@@ -1,3 +1,17 @@
-.header {
-    color: red;
+.list {
+    margin-top: 20px;
+}
+.list-box {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.list-item {
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    padding: 5px 10px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
 }
