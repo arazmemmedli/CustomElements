@@ -1,0 +1,15 @@
+.alert {
+    padding: 20px;
+    background: lightblue;
+    box-sizing: border-box;
+}
+
+.alert h1 {
+    color: black;
+    margin: 0px
+}
+
+.alert p {
+    color: gray;
+    margin: 0px;
+}
